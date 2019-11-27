@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="movie_name">Judul Film</string>
+    <string name="movie_genre">Genre Movie</string>
+    <string name="image_description">Gambar Film</string>
+    <string name="judul_film">Judul Film</string>
+    <string name="detail_film">Detail Film</string>
+
+    <string-array name="data_name">
+        <item>Pulp Fiction</item>
+        <item>Inglourious Basterds</item>
+        <item>Reservoir Dogs</item>
+        <item>Jackie Brown</item>
+        <item>Django Unchained</item>
+        <item>Kill Bill: Vol. 1</item>
+        <item>Natural Born Killers</item>
+        <item>From Dusk Till Dawn</item>
+        <item>The Hateful Eight</item>
+        <item>Four Rooms</item>
+    </string-array>
+
+    <string-array name="genre">
+        <item>Crime, Drama</item>
+        <item>Adventure, Drama, War</item>
+        <item>Crime, Drama, Thriller</item>
+        <item>Crime, Drama, Thriller</item>
+        <item>Drama, Western</item>
+        <item>Action, Crime, Thriller</item>
+        <item>Crime, Drama</item>
+        <item>Action, Crime, Horror</item>
+        <item>Crime, Drama, Mystery</item>
+        <item>Comedy</item>
+    </string-array>
+
+    <array name="photo">
+        <item>@drawable/pulp_fiction</item>
+        <item>@drawable/basterds</item>
+        <item>@drawable/dogs</item>
+        <item>@drawable/brown</item>
+        <item>@drawable/django</item>
+        <item>@drawable/kill_bill</item>
+        <item>@drawable/nbk</item>
+        <item>@drawable/dtd</item>
+        <item>@drawable/eight</item>
+        <item>@drawable/four_rooms</item>
+    </array>
+
+    <string-array name="detail">
+        <item>The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.</item>
+        <item>In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owners vengeful plans for the same.</item>
+        <item>When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.</item>
+        <item>A middle-aged woman finds herself in the middle of a huge conflict that will either make her a profit or cost her life.</item>
+        <item>With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.</item>
+        <item>After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.</item>
+        <item>Two victims of traumatized childhoods become lovers and psychopathic serial murderers irresponsibly glorified by the mass media.</item>
+        <item>Two criminals and their hostages unknowingly seek temporary refuge in a truck stop populated by vampires, with chaotic results.</item>
+        <item>In the dead of a Wyoming winter, a bounty hunter and his prisoner find shelter in a cabin currently inhabited by a collection of nefarious characters.</item>
+        <item>Four interlocking tales that take place in a fading hotel on New Years Eve.</item>
+    </string-array>
+
+</resources>
+
